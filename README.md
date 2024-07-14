@@ -119,16 +119,16 @@ Our e-learning application delivers a comprehensive and user-friendly platform f
 
 ### Screenshots
 
-![Login Page](result/login_page.png)
+![Login Page](result/login_page.jpeg)
 *Login Page*
 
-![Homepage](result/login_page.png)
+![Homepage](result/home_page.jpeg)
 *Homepage*
 
-![Navigation Bar](result/login_page.png)
+![Navigation Bar](result/Navigation_bar.png)
 *Navigation Bar*
 
-![Profile Page](result/profile_page.png)
+![Profile Page](result/profile_page.jpeg)
 *Profile Page*
 
 ### User Feedback
