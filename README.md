@@ -21,6 +21,7 @@ The overall workflow of the project as follows:
 3. Application verifies the login credentials.
 4. Upon successful login, the user is redirected to the homepage.
 5. The homepage displays school details and other information.
+
 **6. User navigates through the navigation bar to different sections:**
 
    Tuition Centre Detail
@@ -35,15 +36,15 @@ The overall workflow of the project as follows:
    
 **7. Each section provides specific functionalities:**
 
-Tuition Centre Detail: View and apply for tuition services.
+   Tuition Centre Detail: View and apply for tuition services.
 
-Online Resources Detail: Access educational resources.
+   Online Resources Detail: Access educational resources.
 
-Online Mentor Detail: Browse and contact online mentors.
+   Online Mentor Detail: Browse and contact online mentors.
 
-Profile Page: View and update user profile.
+   Profile Page: View and update user profile.
 
-Logout Option: End session and redirect to the login page.
+   Logout Option: End session and redirect to the login page.
     
 8.  User interacts with various features as needed.
 9.  Application processes user requests and updates data in the database.
