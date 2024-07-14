@@ -47,6 +47,10 @@ The overall workflow of the project as follows:
    Logout Option: End session and redirect to the login page.
 
 
+![Project Workflow](path/to/your/flowchart.png)
+
+
+
 ## Features
 
 - **User Authentication:**
@@ -113,11 +117,26 @@ Our e-learning application delivers a comprehensive and user-friendly platform f
 - **Responsive Design:**
   - The application is fully responsive, providing an optimal user experience across various devices, including desktops, tablets, and smartphones.
 
+### Screenshots
+
+![Login Page](path/to/login-page-screenshot.png)
+*Login Page*
+
+![Homepage](path/to/homepage-screenshot.png)
+*Homepage*
+
+![Navigation Bar](path/to/navigation-bar-screenshot.png)
+*Navigation Bar*
+
+![Profile Page](path/to/profile-page-screenshot.png)
+*Profile Page*
+
 ### User Feedback
 
 - "The platform is incredibly easy to navigate and has greatly enhanced my learning experience." - *Student A*
 - "Connecting with mentors has been a game-changer for my studies." - *Student B*
 - "The responsive design makes it convenient to access the platform on my phone." - *Student C*
+
 
 ## Benefits
 
