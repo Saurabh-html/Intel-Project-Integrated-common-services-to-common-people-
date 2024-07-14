@@ -34,16 +34,16 @@ The overall workflow of the project as follows:
    Logout Option
    
 **7. Each section provides specific functionalities:**
-    
-    Tuition Centre Detail: View and apply for tuition services.
-    
-    Online Resources Detail: Access educational resources.
-    
-    Online Mentor Detail: Browse and contact online mentors.
-    
-    Profile Page: View and update user profile.
-    
-    Logout Option: End session and redirect to the login page.
+
+Tuition Centre Detail: View and apply for tuition services.
+
+Online Resources Detail: Access educational resources.
+
+Online Mentor Detail: Browse and contact online mentors.
+
+Profile Page: View and update user profile.
+
+Logout Option: End session and redirect to the login page.
     
 8.  User interacts with various features as needed.
 9.  Application processes user requests and updates data in the database.
