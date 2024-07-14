@@ -47,7 +47,7 @@ The overall workflow of the project as follows:
    Logout Option: End session and redirect to the login page.
 
 
-![Project Workflow](path/to/your/flowchart.png)
+![Project Workflow](result/Intel_workflow.png)
 
 
 
@@ -119,16 +119,16 @@ Our e-learning application delivers a comprehensive and user-friendly platform f
 
 ### Screenshots
 
-![Login Page](path/to/login-page-screenshot.png)
+![Login Page](result/login_page.png)
 *Login Page*
 
-![Homepage](path/to/homepage-screenshot.png)
+![Homepage](result/login_page.png)
 *Homepage*
 
-![Navigation Bar](path/to/navigation-bar-screenshot.png)
+![Navigation Bar](result/login_page.png)
 *Navigation Bar*
 
-![Profile Page](path/to/profile-page-screenshot.png)
+![Profile Page](result/profile_page.png)
 *Profile Page*
 
 ### User Feedback
